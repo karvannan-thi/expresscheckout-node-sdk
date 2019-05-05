@@ -1,7 +1,12 @@
 {
   "name": "expresscheckout-nodejs-sdk",
   "version": "1.0.4",
-  "keywords": ['juspay', 'nodejs', 'expresscheckout', 'sdk'] ,
+  "keywords": [
+    "juspay", 
+    "nodejs",
+    "expresscheckout",
+    "sdk"
+  ] ,
   "description": "-----------------------",
   "main": "index.js",
   "directories": {
