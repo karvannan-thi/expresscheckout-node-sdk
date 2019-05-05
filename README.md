@@ -9,7 +9,7 @@ The Juspay ExpressCheckout Nodejs SDK makes it easier for merchants to integrate
 #!python
 
 "dependencies" : {
-	"juspay/expresscheckout-Nodejs-sdk" : "1.0.3"
+	"expresscheckout-Nodejs-sdk" : "1.0.3"
 }
 
 ```
